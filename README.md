@@ -17,3 +17,8 @@ npm run dev
 # Build for production
 npm run build
 ```
+
+## App Info
+
+### Link
+[https://thawing-atoll-71741.herokuapp.com/](https://thawing-atoll-71741.herokuapp.com/)
